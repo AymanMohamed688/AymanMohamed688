@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Ayman Mohamed</h1>
+<h1 align="center">I'm Ayman Mohamed</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2D64BC&center=true&vCenter=true&width=500&lines=Mid+Senior+Flutter+Developer;Clean+Architecture+Enthusiast;Love+Building+Cool+UIs+%F0%9F%96%A5%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Coffee+%E2%98%95+%2B+Code+%3D+Perfect+Day" />
 </p>
