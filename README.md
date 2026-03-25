@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman!;CTO+@+Sell3a;Senior+Flutter+Architect;Senior+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed!;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinatorX/MartinatorX/master/images/fire.gif" width="20" /> 
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
-  &nbsp;
   <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Location-Egypt-D14836?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/MartinatorX/MartinatorX/master/images/fire.gif" width="20" />
 </p>
 
 ---
