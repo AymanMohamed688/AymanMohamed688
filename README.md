@@ -1,19 +1,5 @@
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AymanMohamed688&theme=radical&no-frame=true&no-bg=true" alt="Ayman's Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=50&section=header&text=&fontSize=90" alt="Header Animation" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed!;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=50&section=footer&text=&fontSize=90" alt="Footer Animation" />
 </div>
 
 <p align="center">
@@ -40,19 +26,19 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 
 ### 📱 Mobile Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&color=auto" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&color=auto" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&color=auto" />
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&color=auto" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
 ### 🏗️ Architecture & Integrations
 <p align="left">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge&color=auto" />
-  <img src="https://img.shields.io/badge/SOLID%20Principles-orange?style=for-the-badge&color=auto" />
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&color=auto" />
-  <img src="https://img.shields.io/badge/Payment%20Gateways-0081CB?style=for-the-badge&logo=stripe&color=auto" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&color=auto" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID%20Principles-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payment%20Gateways-0081CB?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
