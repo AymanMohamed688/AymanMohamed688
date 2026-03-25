@@ -50,18 +50,18 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 
 * **Sell3a App:** High-performance E-commerce mobile application featuring complex catalog management, dynamic cart systems, and seamless payment integrations.
   <br>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.z.wassally_user"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/us/app/%D8%B3-%D9%84-%D8%B9-%D9%87/id6756402603"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
 
 * **Wassally (وصلي):** Advanced logistics and real-time delivery platform leveraging intensive **Google Maps integrations**, live tracking, and dynamic routing.
   <br>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.z.wasally_driver"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/us/app/wassally/id6748925597"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
 
 * **Sell3a Business:** Specialized B2B management tools for vendors to handle inventory, orders, and analytics.
   <br>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.z.wassally_business"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+  <a href="https://apps.apple.com/us/app/wassally-business/id6748661561"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
 
 ---
 
