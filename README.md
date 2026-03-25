@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Location-Egypt-D14836?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -45,9 +47,21 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 
 ### **CTO @ Sell3a (سلعة)**
 *Leading the technical development of a comprehensive multi-app ecosystem:*
+
 * **Sell3a App:** High-performance E-commerce mobile application featuring complex catalog management, dynamic cart systems, and seamless payment integrations.
+  <br>
+  <a href="LINK_HERE"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+  <a href="LINK_HERE"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+
 * **Wassally (وصلي):** Advanced logistics and real-time delivery platform leveraging intensive **Google Maps integrations**, live tracking, and dynamic routing.
+  <br>
+  <a href="LINK_HERE"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+  <a href="LINK_HERE"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+
 * **Sell3a Business:** Specialized B2B management tools for vendors to handle inventory, orders, and analytics.
+  <br>
+  <a href="LINK_HERE"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+  <a href="LINK_HERE"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
 
 ---
 
