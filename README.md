@@ -7,6 +7,16 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed+👋;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayman-mohamed&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 ## 🚀 About Me
 I am a **Software Engineer** with a specialized focus on building high-performance, scalable mobile ecosystems using **Flutter**. Currently, I serve as the **Co-Founder & CTO of Sell3a (سلعة)**, where I bridge the gap between business vision and robust technical execution.
 
@@ -35,13 +45,13 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
   <img src="https://img.shields.io/badge/SOLID%20Principles-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Payment%20Gateways-0081CB?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 💼 Leadership & Ecosystem Projects
+
 ### **CTO @ Sell3a (سلعة)**
 *Leading the technical development of a comprehensive multi-app ecosystem:*
 * **Sell3a App:** High-performance E-commerce mobile application featuring complex catalog management, dynamic cart systems, and seamless payment integrations.
@@ -52,19 +62,20 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 
 ## 📊 Analytics & Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymanMohamed688&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMohamed688&layout=compact&langs_count=5&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman" height="30" width="40" /></a>
-<a href="mailto:darknaya.am@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+  <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:darknaya.am@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
-<p align="center">
+<div align="center">
   <i>"Writing clean code is what you must do in order to call yourself a professional."</i><br>
   <b>Engineering the future of Mobile Commerce. 🚀</b>
-</p>
+</div>
