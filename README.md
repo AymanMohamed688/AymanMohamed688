@@ -1,15 +1,36 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed!;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinatorX/MartinatorX/master/images/fire.gif" alt="Fire" width="20" />
-  &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
-  &nbsp;&nbsp; <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;&nbsp; <img src="https://img.shields.io/badge/Location-Egypt-D14836?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-
-  &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/MartinatorX/MartinatorX/master/images/fire.gif" alt="Fire" width="20" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="60%">
+      <div align="left">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&lines=Hi+there,+I'm+Ayman!;CTO+@+Sell3a;Senior+Flutter+Arch;Senior+Software+Engineer" alt="Typing SVG" />
+      </div>
+      <br>
+      <div align="left">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="middle">
+              <img src="https://raw.githubusercontent.com/MartinatorX/MartinatorX/master/images/fire.gif" alt="Fire" width="20" />
+            </td>
+            <td valign="middle">
+              &nbsp; <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
+              &nbsp;
+              <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+              &nbsp;
+              <img src="https://img.shields.io/badge/Location-Egypt-D14836?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+              &nbsp;
+            </td>
+            <td valign="middle">
+              <img src="https://raw.githubusercontent.com/MartinatorX/MartinatorX/master/images/fire.gif" alt="Fire" width="20" />
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,17 +52,17 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&color=white" />
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&color=white" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
 ### 🏗️ Architecture & Integrations
 <p align="left">
   <img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOLID%20Principles-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&color=white" />
-  <img src="https://img.shields.io/badge/Payment%20Gateways-0081CB?style=for-the-badge&logo=stripe&color=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&color=white" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payment%20Gateways-0081CB?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
