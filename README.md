@@ -1,18 +1,13 @@
-# Hi there, I'm Ayman Mohamed! 👋
-### CTO | Senior Software Engineer | Mobile Architect (Flutter)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayman-mohamed&label=Profile%20views&color=2196F3&style=flat-square" alt="ayman-mohamed" />
-</p>
-
----
+<div align="center">
+  <h1>Hi there, I'm Ayman Mohamed! 👋</h1>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed+👋;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed!;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayman-mohamed&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
