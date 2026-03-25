@@ -1,16 +1,12 @@
 <div align="center">
-  <h1>Hi there, I'm Ayman Mohamed! 👋</h1>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed!;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed+👋;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<br>
 
 ## 🚀 About Me
 I am a **Software Engineer** with a specialized focus on building high-performance, scalable mobile ecosystems using **Flutter**. Currently, I serve as the **Co-Founder & CTO of Sell3a (سلعة)**, where I bridge the gap between business vision and robust technical execution.
@@ -22,7 +18,7 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 - 🔌 **Core Integrations:** Extensive hands-on experience implementing **Payment Gateways** (Stripe, Paymob, etc.), **Google Maps & Geolocation Services**, and real-time APIs.
 - 👨‍💻 **Technical Leadership:** Leading the end-to-end development of complete e-commerce and delivery tracking platforms.
 
----
+<br>
 
 ## 🛠️ Technical Arsenal
 
@@ -43,7 +39,7 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<br>
 
 ## 💼 Leadership & Ecosystem Projects
 
@@ -53,7 +49,7 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 * **Wassally (وصلي):** Advanced logistics and real-time delivery platform leveraging intensive **Google Maps integrations**, live tracking, and dynamic routing.
 * **Sell3a Business:** Specialized B2B management tools for vendors to handle inventory, orders, and analytics.
 
----
+<br>
 
 ## 📊 Analytics & Activity
 <p align="center">
@@ -61,7 +57,7 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMohamed688&layout=compact&langs_count=5&theme=radical" alt="Top Languages" />
 </p>
 
----
+<br>
 
 ## 🤝 Let's Connect
 <p align="left">
