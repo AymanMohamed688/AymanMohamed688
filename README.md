@@ -52,9 +52,10 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
 ---
 
 ## 📊 Analytics & Activity
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-five-lemon-68.vercel.app/api?username=AymanMohamed688&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-five-lemon-68.vercel.app/api/top-langs/?username=AymanMohamed688&layout=compact&langs_count=5&theme=radical&count_private=true&hide=html,css&exclude_repo=AymanMohamed688" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AymanMohamed688&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
