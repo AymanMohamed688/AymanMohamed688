@@ -84,8 +84,3 @@ I am a strong advocate for **Clean Code** and architectural excellence. My core 
   <a href="mailto:darknaya.am@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-<div align="center">
-  <i>"Writing clean code is what you must do in order to call yourself a professional."</i><br>
-  <b>Engineering the future of Mobile Commerce. 🚀</b>
-</div>
