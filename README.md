@@ -1,6 +1,14 @@
-# Hi, I'm Ayman Mohamed 👋
+# Ayman Mohamed
 
-### Flutter Software Engineer
+### Flutter Software Engineer · Building Production Mobile Products
+
+> Clean Architecture · Real-Time Systems · Android & iOS
+
+I build production mobile applications for **Android & iOS**, with a strong focus on clean architecture, maintainability, real-time experiences, and reliable product delivery.
+
+My work spans **marketplace, logistics, and healthcare products**, taking features from architecture and implementation all the way to production releases on the **App Store and Google Play**.
+
+---
 
 I build production mobile applications for **Android & iOS**, with a strong focus on clean architecture, maintainability, real-time experiences, and reliable product delivery.
 
