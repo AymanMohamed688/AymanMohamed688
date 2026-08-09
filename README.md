@@ -10,12 +10,6 @@ My work spans **marketplace, logistics, and healthcare products**, taking featur
 
 ---
 
-I build production mobile applications for **Android & iOS**, with a strong focus on clean architecture, maintainability, real-time experiences, and reliable product delivery.
-
-My work spans **marketplace, logistics, and healthcare products**, taking features from architecture and implementation all the way to production releases on the **App Store and Google Play**.
-
----
-
 ## ⚡ What I Work With
 
 ### 📱 Mobile Engineering
