@@ -1,86 +1,167 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ayman+Mohamed!;CTO+@+Sell3a;Senior+Software+Engineer;Flutter+Mobile+Architect" alt="Typing SVG" />
-</div>
+# Hi, I'm Ayman Mohamed 👋
+
+### Flutter Software Engineer
+
+I build production mobile applications for **Android & iOS**, with a strong focus on clean architecture, maintainability, real-time experiences, and reliable product delivery.
+
+My work spans **marketplace, logistics, and healthcare products**, taking features from architecture and implementation all the way to production releases on the **App Store and Google Play**.
+
+---
+
+## ⚡ What I Work With
+
+### 📱 Mobile Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+### 🏗️ Architecture & State Management
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-0D47A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cubit-6C3BAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GetIt-0175C2?style=for-the-badge" />
+</p>
+
+### 🔌 Backend Integration & Real-Time
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dio-5A29E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 🗺️ Product Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FCM-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-635BFF?style=for-the-badge" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Production Experience
+
+### 🛒 Sell3a — Marketplace & Delivery Ecosystem
+
+**Co-Founder & Flutter Software Engineer**
+
+A production ecosystem built around three interconnected mobile applications:
+
+#### 🛍️ Sell3a
+Customer-facing marketplace application for discovering local businesses, browsing products and offers, managing carts, placing orders, and following the order lifecycle.
+
+#### 🏪 Sell3a Business
+Merchant application for managing store operations, incoming orders, products, offers, and real-time order updates.
+
+#### 🛵 Sell3a Rider
+Delivery application supporting driver workflows, order assignment, navigation, live location tracking, and delivery confirmation.
+
+**Engineering highlights:**
+
+- Clean Architecture across production Flutter applications
+- BLoC / Cubit state management
+- Django REST API integration
+- Real-time synchronization with WebSockets
+- Firebase Cloud Messaging
+- Google Maps & geolocation
+- Live driver tracking
+- Delivery geofencing
+- Payment and wallet flows
+- Production releases for Android & iOS
+
+---
+
+### 🏥 IDEAL Store — Healthcare Membership Platform
+
+**Flutter Software Engineer · Contract / Remote**
+
+Customer-facing healthcare application built for managing membership and healthcare-related services.
+
+**Key work:**
+
+- Feature-based Flutter architecture
+- Clinic discovery and appointment workflows
+- Real-time updates through authenticated WebSockets
+- Subscription and payment checkout flows
+- Dependent profile management
+- Multipart document uploads
+- Digital membership cards
+- Android & iOS production releases
+
+---
+
+## 🧠 Engineering Approach
+
+I prefer building software around clear responsibilities and predictable data flow:
+
+```text
+Presentation
+     ↓
+Use Cases
+     ↓
+Repository Contracts
+     ↓
+Repository Implementations
+     ↓
+Remote / Local Data Sources
+```
+
+I care about architecture when it solves an actual engineering problem — keeping business logic independent, making features easier to maintain, and allowing infrastructure to evolve without rewriting the entire application.
+
+> Clean architecture is a tool for maintainability, not a goal by itself.
+
+---
+
+## 👨‍💻 Beyond Coding
+
+From **2024 to 2025**, I served as **Flutter Track Head at GDG On Campus – Assiut University**, supporting developers with Flutter development, application architecture, Git workflows, and software engineering practices.
+
+I also completed professional development through the **Digital Egypt Pioneers Initiative (DEPI)** and an **Advanced Flutter Workshop at ITI**.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AymanMohamed688&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Location-Egypt-D14836?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-</p>
-
----
-
-## 🚀 About Me
-I am a **Software Engineer** with a specialized focus on building high-performance, scalable mobile ecosystems using **Flutter**. Currently, I serve as the **Co-Founder & CTO of Sell3a (سلعة)**, where I bridge the gap between business vision and robust technical execution.
-
-I am a strong advocate for **Clean Code** and architectural excellence. My core objective is to architect mobile applications that are not just visually appealing, but also maintainable, testable, and capable of scaling to thousands of users.
-
-- 🏗️ **Architectural Expertise:** Deeply experienced in **Clean Architecture**, **SOLID Principles**, and advanced Design Patterns.
-- 📱 **Flutter Specialist:** Expert in complex State Management (Bloc/Cubit, Provider), reactive programming, and performance profiling.
-- 🔌 **Core Integrations:** Extensive hands-on experience implementing **Payment Gateways** (Stripe, Paymob, etc.), **Google Maps & Geolocation Services**, and real-time APIs.
-- 👨‍💻 **Technical Leadership:** Leading the end-to-end development of complete e-commerce and delivery tracking platforms.
-
----
-
-## 🛠️ Technical Arsenal
-
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white" />
-</p>
-
-### 🏗️ Architecture & Integrations
-<p align="left">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID%20Principles-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Payment%20Gateways-0081CB?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 💼 Leadership & Ecosystem Projects
-
-### **CTO @ Sell3a (سلعة)**
-*Leading the technical development of a comprehensive multi-app ecosystem:*
-
-* **Sell3a App:** High-performance E-commerce mobile application featuring complex catalog management, dynamic cart systems, and seamless payment integrations.
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.z.wassally_user"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-  <a href="https://apps.apple.com/us/app/%D8%B3-%D9%84-%D8%B9-%D9%87/id6756402603"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
-
-* **Wassally (وصلي):** Advanced logistics and real-time delivery platform leveraging intensive **Google Maps integrations**, live tracking, and dynamic routing.
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.z.wasally_driver"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-  <a href="https://apps.apple.com/us/app/wassally/id6748925597"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
-
-* **Sell3a Business:** Specialized B2B management tools for vendors to handle inventory, orders, and analytics.
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.z.wassally_business"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
-  <a href="https://apps.apple.com/us/app/wassally-business/id6748661561"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" /></a>
-
----
-
-## 📊 Analytics & Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-five-lemon-68.vercel.app/api?username=AymanMohamed688&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AymanMohamed688&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AymanMohamed688/AymanMohamed688/output/github-snake-dark.svg" alt="GitHub Snake" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AymanMohamed688&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMohamed688&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/ayman-mohamed-1b881024a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:darknaya.am@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/ayman-mohamed-v1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayman_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:darknaya.am@gmail.com">
+    <img src="https://img.shields.io/badge/Email-darknaya.am%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+---
+
+<p align="center">
+  <b>Building maintainable mobile products — from architecture to production.</b>
+</p>
