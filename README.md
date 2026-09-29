@@ -150,7 +150,7 @@ I also completed professional development through the **Digital Egypt Pioneers I
     <img src="https://img.shields.io/badge/LinkedIn-Ayman_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayman.mohamed.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-darknaya.am%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ayman.mohamed.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
